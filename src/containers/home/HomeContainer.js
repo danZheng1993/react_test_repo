@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
-import { View, Text, Button, StyleSheet } from 'react-native'
-import { NavigationActions, StackActions } from 'react-navigation'
+import { View, Text } from 'react-native'
 
 class HomeContainer extends Component {
     render () {
